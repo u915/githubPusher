@@ -4,7 +4,8 @@ Simple shell script to push content to Github pages
 
 ## Params
 
-```PATH_BLOG=/awesome/path/*
+```
+PATH_BLOG=/awesome/path/*
 
 PATH_GIT=/awesome/path
 
